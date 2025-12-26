@@ -81,7 +81,7 @@
 
 ## 🏙️ Hyderabad Analysis
 
-![](Images/Hyd.png)
+![](Images/hyd.png)
 
 ### 📊 Analysis
 
