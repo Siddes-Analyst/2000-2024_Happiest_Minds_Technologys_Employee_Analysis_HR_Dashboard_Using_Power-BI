@@ -18,14 +18,16 @@
 
 ## 🌆 Dashboard Images
 
-### Employee Details
+### Employee Details Screen
 ![](Images/01.png)
 
-### Employee Count Analysis
+### Employee Count Analysis Screen
 ![](Images/02.png)
 
-### Sum of Salary Analysis
+### Sum of Salary Analysis Screen
 ![](Images/03.png)
+
+---
 
 ## 🏙️ Chennai Analysis
 
