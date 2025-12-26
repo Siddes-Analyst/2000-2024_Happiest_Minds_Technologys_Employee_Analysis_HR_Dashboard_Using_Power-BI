@@ -105,7 +105,7 @@
 
 ---
 
-## 🏙️ Total Analysis
+## 🧠 Total Analysis
 
 ### 📊 Analysis
 
