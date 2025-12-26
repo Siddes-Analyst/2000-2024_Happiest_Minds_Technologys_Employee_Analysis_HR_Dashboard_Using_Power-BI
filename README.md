@@ -101,4 +101,19 @@
 - All the years Joining Counts are also being consistent, the differences are less than 3%.
 - Year on Year Attrition count are increasing, Especially Year 2024 has a 1300 Attrition count, compare to previous year 295 % higher.
 - All the years Employee Salary Spent are more similar, not big impact in salary spending (Head counts also shows the same result). Year 2023 is highest salary spending year.
-- Year on Year more flucation is happening in the Average Salary Spent.  
+- Year on Year more flucation is happening in the Average Salary Spent.
+
+---
+
+## 🏙️ Total Analysis
+
+### 📊 Analysis
+
+- All the Location Employee Head counts are in the Range of 6500 to 6700. Its more likely similar of all the Locations, difference are been less than 1%. Compare to 3 Location Chennai has Maximum Head Count and the Counts are 33454.
+- All the Location Employee Joining counts are almost same of all the years, difference is 1%. Compare to 3 Location Chennai has Maximum Joining Count and the Counts are 6833.
+- Chennai & Hyderabad had same Attrition Counts and the count is 1900. Bangalore has highest Attrition Counts and the count is 2038. All the Location Attrition Count are getting increased more than 65% of all the years. Especially Year 2024 is highest Attrition Counts of all the Locations.
+- Chennai has the Highest number of Employee Salary Spent, salary is 73.24 Bn. Bangalore Salary Spent is 73.05 Bn & Hyderabad Salary Spent is 72.32 Bn. And the Compare to the Salary Spent all Location Difference is 1% of all.
+- Chennai & Bangalore has a Same Average Salery Spent and the Salary Amount is 2.19 M. Hyderabad has the lowest Average Salery Spent and the Salary Amount is 2.17 M.
+
+### 🎯 Conclusion
+- In All the Aspects Chennai Location Made the Good Performance compare to Rest 2 Location. 
