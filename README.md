@@ -46,7 +46,11 @@
 - YEAR: 2024
   - Head Counts – 6727, Joining Counts – 1362, Attrition Counts – 1326, Salary Spent – 14.72 Bn, Average Salary – 2.19 M.
 
-
+### 🎯 Conclusion
+- Year 2023 has a High Head Counts and Joining Counts. Compare to the Rest all 5 years 2023 has minimum Average Salary.
+- Compare to the Rest all 5 years 2024 has the highest Attrition Counts, difference is 75.3%. Its highly considerable risk factor to the company.
+- Year 2020 has the Highest Salary spent amount to the Employee. Rest all years are more similar Salary spent.
+- All Years are almost Same of Average Salary, not any big difference.
 
 
 
