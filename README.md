@@ -71,10 +71,34 @@
 - YEAR: 2024
   - Head Counts – 6689, Joining Counts – 1327, Attrition Counts – 1332, Salary Spent – 14.62 Bn, Average Salary – 2.19 M.
 
-
 ### 🎯 Conclusion
 - Year 2022 has a Higher Head Counts and Joining Counts. All the counts are more similar to previous years not the big differences.
 - Year on Year Attrition count are increasing more than 75%, its shows big problem in upcoming years.
 - All the years Employee Salary Spent are more similar, not big impact in salary spending (Head counts also shows the same result). Year 2020 is highest salary spending year.
 - Year 2020 & 2021 are the Highest Average salary Spent Years.  
 
+---
+
+## 🏙️ Hyderabad Analysis
+
+![](Images/Hyd.png)
+
+### 📊 Analysis
+
+- YEAR: 2020
+  - Head Counts – 6583, Joining Counts – 1290, Attrition Counts – 14, Salary Spent – 14.26 Bn, Average Salary – 2.17 M.
+- YEAR: 2021
+  - Head Counts – 6718, Joining Counts – 1314, Attrition Counts – 115, Salary Spent – 14.41 Bn, Average Salary – 2.14 M.
+- YEAR: 2022
+  - Head Counts – 6651, Joining Counts – 1326, Attrition Counts – 238, Salary Spent – 14.30 Bn, Average Salary – 2.15 M.
+- YEAR: 2023
+  - Head Counts – 6719, Joining Counts – 1256, Attrition Counts – 323, Salary Spent – 14.86 Bn, Average Salary – 2.21 M.
+- YEAR: 2024
+  - Head Counts – 6602, Joining Counts – 1311, Attrition Counts – 1300, Salary Spent – 14.49 Bn, Average Salary – 2.19 M.
+
+### 🎯 Conclusion
+- All the years Head Counts are been in the range of 6500 to 6700. Its shows more Consistent Employees are available in the office.
+- All the years Joining Counts are also being consistent, the differences are less than 3%.
+- Year on Year Attrition count are increasing, Especially Year 2024 has a 1300 Attrition count, compare to previous year 295 % higher.
+- All the years Employee Salary Spent are more similar, not big impact in salary spending (Head counts also shows the same result). Year 2023 is highest salary spending year.
+- Year on Year more flucation is happening in the Average Salary Spent.  
